@@ -1,36 +1,22 @@
-Flask By Example
-================
-
-Code for my PyCon 2014 tutorial "Flask By Example".
-
-Pre-requisites
---------------
-
-- Some previous Python coding experience
-- Basic knowledge of HTML and CSS
-- A bit of JavaScript will definitely not hurt
+Flask-Talks
+===========
 
 Requirements
 ------------
 
-- Python 2.7 or 3.3+ on any supported OS (even Windows!)
-- virtualenv (or pyvenv if you are using Python 3.4)
+- Python 3.7+
 - git
 - Network connection (only to install the application)
 
 Setup
 -----
 
-The tutorial does not have a hands-on portion. For that reason it is not required that you come with your laptop with everything installed; you can come unplugged and just listen and learn if you like.
-
-However, you will want to work with this application once you learn all about it in class, so I recommend that you try to install it ahead of time and have a chance to talk to me if you run into problems.
-
 Please make sure your computer meets all the requirements listed above before you begin. Below are step-by-step installation instructions:
 
 **Step 1**: Clone the git repository
 
-    $ git clone https://github.com/miguelgrinberg/flask-pycon2014.git
-    $ cd flask-pycon2014
+    $ git clone https://github.com/Pythonian/flask-talks.git
+    $ cd flask-talks
 
 **Step 2**: Create a virtual environment.
 
