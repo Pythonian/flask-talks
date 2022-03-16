@@ -34,6 +34,7 @@ class User(UserMixin, db.Model):
 
     @property
     def password(self):
+        """ A write-only property to write a password to."""
         raise AttributeError('password is not a readable attribute')
 
     @password.setter
